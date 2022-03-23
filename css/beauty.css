@@ -246,3 +246,239 @@ nav a
 	margin-top: 0%;
 
 }
+
+.corps6
+{
+	width: 100%;
+	margin-top: 2%;
+	background: whitesmoke;
+	color: black;
+	padding: 5%;
+	text-align: center;
+}
+
+.corps6 h2
+{
+	font-weight: bolder;
+	font-size: 3rem;
+}
+.corps6 p
+{
+	font-weight: bolder;
+	font-size: 1rem;
+}
+
+.corps6 .case
+{
+	width: 60%;
+	margin: 1% auto;
+	display: flex;
+	flex-direction: column;
+}
+
+.corps6 .case .contenaire
+{
+	width: 100%;
+	height: 300px;
+	padding: 4%;
+	background: orangered;
+}
+.corps6 .case .contenaire .cont
+{
+	width: 10%;
+	color: orangered;
+	background: rgba(0, 0, 0, 0.432);
+	font-family: monospace;
+	font-size: 2rem;
+	margin-left: 85%;
+	margin-top: 2%;
+	border-radius: 10px;
+
+}
+
+.corps6 .case .contenaire2
+{
+	width: 100%;
+	height: 300px;
+	margin-top: 2%;
+	padding: 4%;
+	background: rgb(70, 243, 162);
+}
+
+.corps6 .case .contenaire2 .cont
+{
+	width: 10%;
+	color: orangered;
+	background: rgba(0, 0, 0, 0.432);
+	font-family: monospace;
+	font-size: 2rem;
+	margin-left: 85%;
+	margin-top: 2%;
+	border-radius: 10px;
+
+}
+
+.corps6 .case .contenaire3
+{
+	width: 100%;
+	height: 300px;
+	margin-top: 2%;
+	padding: 4%;
+	background: rgb(41, 8, 35);
+}
+
+.corps6 .case .contenaire3 .cont
+{
+	width: 10%;
+	color: orangered;
+	background: rgba(0, 0, 0, 0.432);
+	font-family: monospace;
+	font-size: 2rem;
+	margin-left: 85%;
+	margin-top: 2%;
+	border-radius: 10px;
+
+}
+
+.corps6 a
+{
+	width: 30%;
+	padding: 1%;
+	text-decoration: none;
+	color: red;
+	text-align: center;
+	font-size: 1.5rem;
+	margin-left: 90%;
+	margin-top: 10%;
+	background: rgb(248, 248, 22);
+	border-radius: 20px;
+}
+
+.corps7
+{
+	width: 100%;
+	background: red;
+	margin-top: 3%;
+	color: whitesmoke;
+	text-align: center;
+	font-size: 2rem;
+	display: block;
+	padding: 2%;
+}
+
+.corps7 .center
+{
+	margin-top: 2%;
+	padding: 2%;
+	display: inline;
+}
+
+.corps7 a
+{
+	width: 50%;
+	padding: 1%;
+	text-decoration: none;
+	color: black;
+	text-align: center;
+	font-size: 1rem;
+	background: whitesmoke;
+	border-radius: 20px;
+	font-weight: bold;
+	margin-left: 70%;
+	margin-top: 0%;
+
+}
+
+
+.corps9
+{
+	width: 100%;
+	margin-top: 2%;
+	background: whitesmoke;
+	color: black;
+	padding: 5%;
+	text-align: center;
+}
+
+.corps9 h2
+{
+	font-weight: bolder;
+	font-size: 3rem;
+}
+.corps9 p
+{
+	font-weight: bolder;
+	font-size: 1rem;
+}
+
+.corps9 .case
+{
+	width: 60%;
+	margin: 1% auto;
+	display: flex;
+	flex-direction: column;
+}
+
+.corps9 .case .contenaire
+{
+	width: 100%;
+	height: 300px;
+	padding: 4%;
+	margin-top: 2%;
+	border-radius: 10px;
+	background: rgba(0, 0, 0, 0.514);
+}
+.corps9 .case .contenaire .cont
+{
+	width: 10%;
+	color: orangered;
+	background: rgba(0, 0, 0, 0.432);
+	font-family: monospace;
+	font-size: 2rem;
+	margin-left: 85%;
+	margin-top: 2%;
+	border-radius: 10px;
+
+
+}
+.corps9 .case .contenaire .cont a
+{
+	font-size: 8rem;
+	margin: 5%;
+	text-decoration: none;
+	color: whitesmoke;
+}
+
+.corps9 a
+{
+	width: 30%;
+	padding: 1%;
+	text-decoration: none;
+	color: red;
+	text-align: center;
+	font-size: 1.5rem;
+	margin-left: 90%;
+	margin-top: 10%;
+	background: rgb(248, 248, 22);
+	border-radius: 20px;
+}
+
+.corps10
+{
+	width: 100%;
+	margin-top: 2%;
+	background: rgb(43, 42, 42);
+	color: whitesmoke;
+	padding: 5%;
+	text-align: center;
+}
+
+.corps10 h2
+{
+	font-size: 2rem;
+	margin: 2%;
+}
+.corps10 a
+{
+	color: red;
+}
