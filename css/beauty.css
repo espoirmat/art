@@ -482,3 +482,177 @@ nav a
 {
 	color: red;
 }
+
+@media all and (max-width: 900px)
+{
+	nav .cercle
+	{
+		width: 15%;
+		font-size: 0.5rem;
+	}
+	nav h1 
+	{
+		font-size: 1.5rem;
+		top: 3%;
+		left: 20%;
+	}
+
+	nav a 
+	{
+		text-decoration: none;
+		color: red;
+		font-size: 2rem;
+		position: absolute;
+		right: 2%;
+	}
+
+	.corps2 h2
+	{
+		font-size: 2rem;
+	}
+	.corps2 a
+	{
+		margin-left: 55%;
+
+	}
+
+	.corps3 p
+	{	
+		text-align: center;
+		font-size: 2rem;
+		color: red;
+	}
+	.corps3 .case .contenaire
+	{
+		width: 48%;
+		margin: 0.5%;
+	}
+	.corps3 a
+	{
+		margin-left: 80%;
+	}
+
+	.corps4 h2
+	{
+		font-size: 2rem;
+	}
+
+	.corps5
+	{
+		font-size: 1rem;
+	}
+
+	.corps5 a
+	{
+		margin-left: 40%;
+
+	}
+
+	.corps6 h2
+	{
+		font-size: 2rem;
+	}
+	.corps6 p
+	{
+		font-size: 0.7rem;
+	}
+
+	.corps6 .case
+	{
+		width: 90%;
+		margin: 2% auto;
+	}
+
+	.corps6 .case .contenaire
+	{
+		width: 100%;
+		height: 200px;
+		padding: 4%;
+		background: orangered;
+	}
+	.corps6 .case .contenaire .cont
+	{
+		width: 10%;
+		font-size: 1rem;
+
+	}
+
+	.corps6 .case .contenaire2
+	{
+		height: 200px;
+	}
+
+	.corps6 .case .contenaire2 .cont
+	{
+		width: 10%;
+		font-size: 1rem;
+
+	}
+
+	.corps6 .case .contenaire3
+	{
+		height: 200px;
+	}
+
+	.corps6 .case .contenaire3 .cont
+	{
+		width: 10%;
+		font-size: 1rem;
+
+	}
+
+	.corps6 a
+	{
+		margin-left: 80%;
+	}
+
+	.corps7
+	{
+		font-size: 1rem;
+	}
+
+	.corps7 a
+	{
+		margin-left: 40%;
+
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	.corps9 h2
+	{
+		font-size: 2rem;
+	}
+
+	.corps9 .case
+	{
+		width: 90%;
+	}
+
+	.corps9 .case .contenaire
+	{
+		height: 200px;
+	}
+	.corps9 .case .contenaire .cont
+	{
+		font-size: 1rem;
+	}
+
+	.corps9 a
+	{
+		margin-left: 80%;
+	}
+
+}
